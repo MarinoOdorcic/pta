@@ -1,0 +1,3 @@
+C:/Dev/pta/cmake-build-debug/CMakeFiles/pta.dir
+C:/Dev/pta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/pta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
